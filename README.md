@@ -524,7 +524,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=syntax-savage&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FFF&ring=00f5ff&fire=e0aaff&currStreakLabel=00f5ff&sideLabels=e0aaff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Baklolman69&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FFF&ring=00f5ff&fire=e0aaff&currStreakLabel=00f5ff&sideLabels=e0aaff)](https://git.io/streak-stats)
 
 </div>
 
@@ -534,7 +534,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=syntax-savage&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github-profile-trophy.vercel.app/?username=syntax-savage)
+[![trophy](https://github-profile-trophy.vercel.app/?username=syntax-savage&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github-profile-trophy.vercel.app/?username=Baklolman69)
 
 </div>
 
@@ -548,7 +548,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baklolman69)
 
 <br/><br/>
 
@@ -560,11 +560,11 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/syntax-savage/syntax-savage/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/Baklolman69/Baklolman69/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/syntax-savage/syntax-savage/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/Baklolman69/Baklolman69/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake"
-    src="https://raw.githubusercontent.com/syntax-savage/syntax-savage/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/Baklolman69/Baklolman69/output/github-contribution-grid-snake-dark.svg"
     width="100%" />
 </picture>
 
