@@ -54,7 +54,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baklolman69&bg_color=0d1117&color=00f5ff&line=7B2FFF&point=e0aaff&area=true&area_color=7B2FFF&hide_border=true&custom_title=Jimmy's%20Contribution%20Graph" width="95%"/>
+  <img src="https://ghchart.rshah.org/7B2FFF/Baklolman69" alt="Baklolman69 Contribution Chart" width="95%"/>
 </div>
 
 <br/>
@@ -315,8 +315,8 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Baklolman69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=7B2FFF&text_color=e0aaff" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baklolman69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e0aaff" alt="Top Languages" height="180">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Baklolman69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7B2FFF&text_color=e0aaff" alt="GitHub Stats" height="180">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Baklolman69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e0aaff" alt="Top Languages" height="180">
 
 <br/><br/>
 
@@ -330,7 +330,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Baklolman69&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github-profile-trophy.vercel.app/?username=Baklolman69)
+[![trophy](https://github-readme-trophy.vercel.app/?username=Baklolman69&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/Baklolman69)
 
 </div>
 
