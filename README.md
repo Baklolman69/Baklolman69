@@ -5,18 +5,18 @@
 <!-- ═══════════════════════════════════════════════ -->
 
 <!-- ✦ HERO: Custom animated GIF banner (Self-hosted) -->
-[![Baklolman69 banner](banner.gif)](https://github.com/Baklolman69)
+[![tensormind-tech banner](banner.gif)](https://github.com/tensormind-tech)
 
 <br/>
 
 <!-- ✦ BADGES — Clean row with spacing -->
-<a href="https://github.com/Baklolman69?tab=followers">
-  <img src="https://img.shields.io/github/followers/Baklolman69?label=Followers&style=for-the-badge&color=7B2FFF&labelColor=0d0d1a&logo=github&logoColor=white" alt="Followers">
+<a href="https://github.com/tensormind-tech?tab=followers">
+  <img src="https://img.shields.io/github/followers/tensormind-tech?label=Followers&style=for-the-badge&color=7B2FFF&labelColor=0d0d1a&logo=github&logoColor=white" alt="Followers">
 </a>
 &nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Baklolman69&label=VIEWS&style=for-the-badge&color=00f5ff&labelColor=0d0d1a" alt="Views">
+<img src="https://komarev.com/ghpvc/?username=tensormind-tech&label=VIEWS&style=for-the-badge&color=00f5ff&labelColor=0d0d1a" alt="Views">
 &nbsp;&nbsp;
-<a href="https://github.com/Baklolman69?tab=repositories">
+<a href="https://github.com/tensormind-tech?tab=repositories">
   <img src="https://img.shields.io/badge/Repos-15-e0aaff?style=for-the-badge&labelColor=0d0d1a&logo=github" alt="Repos">
 </a>
 &nbsp;&nbsp;
@@ -36,7 +36,7 @@
 // ⚡ Jimmy.kt — Main character loading...
 data class Jimmy(
     val pronouns: String           = "He / Him",
-    val alias: String              = "Baklolman69 | DR.Code",
+    val alias: String              = "tensormind-tech | DR.Code",
     val role: String               = "Native Android • Kotlin • On-Device AI",
     val motto: String              = "I don't build apps. I build solutions.",
     val languages: List<String>    = listOf("Kotlin", "Java", "Groovy", "JavaScript", "SQL"),
@@ -54,7 +54,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/7B2FFF/Baklolman69" alt="Baklolman69 Contribution Chart" width="95%"/>
+  <img src="https://ghchart.rshah.org/7B2FFF/tensormind-tech" alt="tensormind-tech Contribution Chart" width="95%"/>
 </div>
 
 <br/>
@@ -174,7 +174,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <tr>
 <td width="100%">
 
-### <a href="https://github.com/Baklolman69/calle-android-sdk"><img src="https://img.shields.io/badge/📱-calle--android--sdk-00f5ff?style=for-the-badge&labelColor=0d0d1a" alt="calle-android-sdk"/></a>
+### <a href="https://github.com/tensormind-tech/calle-android-sdk"><img src="https://img.shields.io/badge/📱-calle--android--sdk-00f5ff?style=for-the-badge&labelColor=0d0d1a" alt="calle-android-sdk"/></a>
 
 > #### *"Native Kotlin SDK for CALL-E AI Voice Agent Integration on Android and Wear OS"*
 
@@ -195,7 +195,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 **Tech:** `Kotlin` · `Ktor` · `Groq LLM` · `SerpApi` · `Jetpack Compose`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baklolman69/calle-android-sdk)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tensormind-tech/calle-android-sdk)
 
 </details>
 
@@ -208,7 +208,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <tr>
 <td width="100%">
 
-### <a href="https://github.com/Baklolman69/WriteRight-AI-"><img src="https://img.shields.io/badge/✍️-WriteRight_AI-e0aaff?style=for-the-badge&labelColor=0d0d1a" alt="WriteRight AI"/></a>
+### <a href="https://github.com/tensormind-tech/WriteRight-AI-"><img src="https://img.shields.io/badge/✍️-WriteRight_AI-e0aaff?style=for-the-badge&labelColor=0d0d1a" alt="WriteRight AI"/></a>
 
 > #### *"Your AI writing assistant — everywhere you type."*
 
@@ -229,7 +229,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 **Tech:** `JavaScript` · `Chrome Extension (MV3)` · `Groq Cloud API` · `Llama 3.3 70B`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baklolman69/WriteRight-AI-)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tensormind-tech/WriteRight-AI-)
 
 </details>
 
@@ -242,7 +242,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <tr>
 <td width="100%">
 
-### <a href="https://github.com/Baklolman69/SpeedUp-v1.0"><img src="https://img.shields.io/badge/⏩-SpeedUp_v1.0-FFD700?style=for-the-badge&labelColor=0d0d1a" alt="SpeedUp"/></a>
+### <a href="https://github.com/tensormind-tech/SpeedUp-v1.0"><img src="https://img.shields.io/badge/⏩-SpeedUp_v1.0-FFD700?style=for-the-badge&labelColor=0d0d1a" alt="SpeedUp"/></a>
 
 > #### *"Control every video. Any speed. Any site."*
 
@@ -263,7 +263,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 **Tech:** `JavaScript` · `Chrome Extension (MV3)` · `Web Audio API` · `HTML5 Video`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baklolman69/SpeedUp-v1.0)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tensormind-tech/SpeedUp-v1.0)
 
 </details>
 
@@ -276,7 +276,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <tr>
 <td width="100%">
 
-### <a href="https://github.com/Baklolman69/-Walkie-Talkie-App-Native-Android-P2P-Voice-Communicator"><img src="https://img.shields.io/badge/📻-Walkie_Talkie-3DDC84?style=for-the-badge&labelColor=0d0d1a" alt="Walkie-Talkie"/></a>
+### <a href="https://github.com/tensormind-tech/-Walkie-Talkie-App-Native-Android-P2P-Voice-Communicator"><img src="https://img.shields.io/badge/📻-Walkie_Talkie-3DDC84?style=for-the-badge&labelColor=0d0d1a" alt="Walkie-Talkie"/></a>
 
 > #### *"Real-time voice. Zero internet. Pure connection."*
 
@@ -297,7 +297,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 **Tech:** `Kotlin` · `Android SDK` · `Bluetooth RFCOMM` · `AudioRecord` · `AudioTrack`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baklolman69/-Walkie-Talkie-App-Native-Android-P2P-Voice-Communicator)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tensormind-tech/-Walkie-Talkie-App-Native-Android-P2P-Voice-Communicator)
 
 </details>
 
@@ -315,12 +315,12 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Baklolman69&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7B2FFF&text_color=e0aaff" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Baklolman69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e0aaff" alt="Top Languages" height="180">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=tensormind-tech&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7B2FFF&text_color=e0aaff" alt="GitHub Stats" height="180">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tensormind-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e0aaff" alt="Top Languages" height="180">
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Baklolman69&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FFF&ring=00f5ff&fire=e0aaff&currStreakLabel=00f5ff&sideLabels=e0aaff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tensormind-tech&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FFF&ring=00f5ff&fire=e0aaff&currStreakLabel=00f5ff&sideLabels=e0aaff)](https://git.io/streak-stats)
 
 </div>
 
@@ -330,7 +330,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-[![trophy](https://github-readme-trophy.vercel.app/?username=Baklolman69&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/Baklolman69)
+[![trophy](https://github-readme-trophy.vercel.app/?username=tensormind-tech&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/tensormind-tech)
 
 </div>
 
@@ -344,7 +344,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baklolman69)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tensormind-tech)
 
 <br/><br/>
 
@@ -356,11 +356,11 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Baklolman69/Baklolman69/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/tensormind-tech/tensormind-tech/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Baklolman69/Baklolman69/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/tensormind-tech/tensormind-tech/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake"
-    src="https://raw.githubusercontent.com/Baklolman69/Baklolman69/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/tensormind-tech/tensormind-tech/output/github-contribution-grid-snake-dark.svg"
     width="100%" />
 </picture>
 
@@ -369,4 +369,4 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <br/>
 
 <!-- Premium Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,15:1a0a3e,30:302b63,50:7B2FFF,70:302b63,85:1a0a3e,100:0f0c29&height=150&section=footer&text=Baklolman69&fontSize=30&fontColor=00f5ff&animation=twinkling&stroke=7B2FFF&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,15:1a0a3e,30:302b63,50:7B2FFF,70:302b63,85:1a0a3e,100:0f0c29&height=150&section=footer&text=tensormind-tech&fontSize=30&fontColor=00f5ff&animation=twinkling&stroke=7B2FFF&strokeWidth=2"/>
