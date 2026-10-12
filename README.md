@@ -37,14 +37,14 @@
 data class Jimmy(
     val pronouns: String           = "He / Him",
     val alias: String              = "Baklolman69 | DR.Code",
-    val role: String               = "Full Stack Dev & Cloud Architect",
+    val role: String               = "Native Android • Kotlin • On-Device AI",
     val motto: String              = "I don't build apps. I build solutions.",
-    val languages: List<String>    = listOf("Kotlin", "JavaScript", "Java", "Groovy", "SQL"),
-    val mobile: List<String>       = listOf("Android", "Jetpack Compose", "KSP", "Room"),
-    val cloud: List<String>        = listOf("AWS ☁️", "GCP 🌐", "Azure 🔷"),
-    val tools: List<String>        = listOf("React", "Node.js", "Firebase", "Git", "Gradle"),
-    val architecture: List<String> = listOf("microservices", "serverless", "MVVM", "Clean Arch"),
-    val currentFocus: String       = "AI-powered apps that create real-world impact",
+    val languages: List<String>    = listOf("Kotlin", "Java", "Groovy", "JavaScript", "SQL"),
+    val mobile: List<String>       = listOf("Android SDK", "Jetpack Compose", "KSP", "Room", "Wear OS"),
+    val focus: List<String>        = listOf("On-Device AI 🧠", "Offline P2P 📻", "Voice Agents 🎙️"),
+    val tools: List<String>        = listOf("Ktor", "Groq Cloud", "Git", "Gradle", "Chrome MV3"),
+    val architecture: List<String> = listOf("MVVM", "MVI", "Clean Arch", "Compose Runtime"),
+    val currentFocus: String       = "Native Android & on-device AI systems with real-world impact",
     val funFact: String            = "Napkin sketch → deployed app before lunch 🍕"
 )
 
