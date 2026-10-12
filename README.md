@@ -315,7 +315,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Baklolman69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7B2FFF&text_color=e0aaff" alt="GitHub Stats" height="180">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Baklolman69&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7B2FFF&text_color=e0aaff" alt="GitHub Stats" height="180">
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Baklolman69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e0aaff" alt="Top Languages" height="180">
 
 <br/><br/>
